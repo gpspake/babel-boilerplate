@@ -2,4 +2,4 @@ function addTwo(n) {
   return n + 2
 }
 
-module.exports = {addTwo};
+module.exports = {addTwo: addTwo};
