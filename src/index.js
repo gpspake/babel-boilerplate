@@ -1,3 +1,3 @@
-var Math = require('./math');
+import {addTwo} from './math'
 
-console.log('4 + 2 = ' + Math.addTwo(4))
+console.log(`4 + 2 = ${addTwo(4)}`)
