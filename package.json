@@ -1,0 +1,8 @@
+{
+  "name": "babel-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple Babel Boilerplate",
+  "main": "index.js",
+  "author": "George Spake <gpspake@gmail.com>",
+  "license": "MIT"
+}
