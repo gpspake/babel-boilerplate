@@ -4,5 +4,8 @@
   "description": "Simple Babel Boilerplate",
   "main": "index.js",
   "author": "George Spake <gpspake@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"
+  }
 }
