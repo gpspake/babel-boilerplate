@@ -1,5 +1,3 @@
-function addTwo(n) {
-  return n + 2
-}
+var Math = require('./src/math');
 
-console.log('4 + 2 = ' + addTwo(4))
+console.log('4 + 2 = ' + Math.addTwo(4))
